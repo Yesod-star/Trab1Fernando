@@ -31,7 +31,7 @@ var monsterImage = new Image();
 monsterImage.onload = function () {
     monsterReady = true;
 };
-monsterImage.src = 'imagens/monstro.png';
+monsterImage.src = 'imagens/monster.png';
 
 // Objetos do jogo
 var hero = {
