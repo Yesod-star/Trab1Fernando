@@ -1,9 +1,10 @@
 {
   "name": "site2",
   "version": "1.0.0",
-  "description": "",
-  "babel":{
-    "presets": ["es2015"]
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
   },
   "main": "javascriptson.js",
   "scripts": {
@@ -15,5 +16,15 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yesod-star/Trab1Fernando.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yesod-star/Trab1Fernando/issues"
+  },
+  "homepage": "https://github.com/Yesod-star/Trab1Fernando#readme",
+  "description": ""
 }
